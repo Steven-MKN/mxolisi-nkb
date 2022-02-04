@@ -454,7 +454,7 @@ a:hover {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -566,7 +566,7 @@ a:hover {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #fff;
@@ -766,6 +766,10 @@ a:hover {
   background-color: #0078ff;
 }
 
+.skills-item {
+  padding-bottom: 15px;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -832,6 +836,12 @@ a:hover {
 .counter-num .counter {
   font-size: 2rem;
   margin-bottom: 0;
+}
+
+.certificates {
+  display: flex;
+  justify-content: space-around;
+
 }
 
 /*--------------------------------------------------------------
